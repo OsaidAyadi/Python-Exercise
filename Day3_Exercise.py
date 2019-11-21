@@ -50,3 +50,17 @@ print (s1 & s2)
 
 """6"""
     
+# Ex11:
+""" {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60} """
+
+
+# Ex12:
+"""
+e
+llo
+Error because b is not defined
+13
+hello, world!
+Jello, World!
+
+"""
